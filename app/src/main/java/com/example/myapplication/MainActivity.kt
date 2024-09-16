@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         }
         boton2.setOnClickListener{
             texto.text="Hello world!"
-//Hola
+//Hola//hola
         }
     }
 
